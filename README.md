@@ -1,0 +1,3 @@
+# djp_portfolio_jun_2023
+
+"This is an e-commerce app that has been instrumental in helping me practice and solidify my knowledge of React, Vite, and TailwindCSS. In the development process, I utilized the FakeStore API to fetch a variety of products to display within the app. Throughout the project, I successfully implemented essential concepts such as React Context, React Router DOM, Components, Product Details, Product Orders, Product Checkout, and Side Menus, among others. Although the project is still a work in progress, it has significantly enhanced my understanding of React and its various functionalities."
